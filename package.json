@@ -25,6 +25,5 @@
     "@wdio/spec-reporter": "^8.8.0",
     "chromedriver": "^114.0.0",
     "wdio-chromedriver-service": "^8.1.1"
-  },
-  "ekra_module": true
+  }
 }
